@@ -10,7 +10,7 @@ npm install
 ```
 > Create `.env` file and setup mongoDB with credentials. 
 
-> Then follow link to get credentials of google OAuth2`https://support.google.com/cloud/answer/6158849?hl=en` and for Facebook go to `Meta for developer` site for credentials. 
+> Then follow link to genrate credentials of google OAuth2`https://support.google.com/cloud/answer/6158849?hl=en` and for Facebook go to `Meta for developer` site for credentials. 
 
 > Setup the .env file with those credentials for both google and Facebook OAuth 2.0 
 
