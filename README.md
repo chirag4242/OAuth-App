@@ -27,15 +27,13 @@ node app.js
 
 ### Tech Stack
 
-![NodeJs](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NodeJs](https://img.shields.io/badge/Node.js-339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=JavaScript&logoColor=black)
 
-![css](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+## Author and Social
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
-## Authors
-
-- [@chirag4242](https://www.github.com/chirag4242)
-
-[![chirag42](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chirag42/) 
-
-
+[![chirag42](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chirag42/) 
+[![@chirag4242](https://img.shields.io/badge/GitHub-181717.svg?style=flat-square&logo=GitHub&logoColor=white)](https://www.github.com/chirag4242)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://cio-app.herokuapp.com/)
+[![Projects](https://img.shields.io/badge/Projects%20Site-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)](https://sites.google.com/view/chiragpatil/home)
