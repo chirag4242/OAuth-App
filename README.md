@@ -24,6 +24,8 @@ then run app.js file to start the application
 ```bash 
 node app.js 
 ```
+#### Service
+- Facbook and Google Auth setup From Oauth 
 
 ### Tech Stack
 
