@@ -24,8 +24,9 @@ then run app.js file to start the application
 ```bash 
 node app.js 
 ```
-#### Service
-- Facbook and Google Auth setup From Oauth 
+#### Require Steps
+- Find documentation for OAuth2.0 form google and meta developer sites 
+- Learn passport midleware to setup OAuth [`Passport`](https://www.passportjs.org/) 
 
 ### Tech Stack
 
